@@ -1,0 +1,2 @@
+# commonVar
+functionDict={}
